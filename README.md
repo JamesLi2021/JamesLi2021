@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamesLi2021
+- 👋 Hi, I’m @jamesli-se
 - 👀 I’m interested in Android and iOS
 - 🌱 I’m currently learning other language
 - 💞️ I’m looking to collaborate on ...
