@@ -1,7 +1,6 @@
 - 👋 Hi, I’m James Li
-- 👀 I’m foucusing in Android and iOS
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m focusing in Android and iOS
+- 🌱 I’m currently learning Flutter
 - 📫 xiao.li@se.com
 
 <!---
