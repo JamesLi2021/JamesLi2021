@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jamesli-se
-- 👀 I’m interested in Android and iOS
-- 🌱 I’m currently learning other language
+- 👋 Hi, I’m James Li
+- 👀 I’m foucusing in Android and iOS
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 xiao.li@se.com
 
 <!---
 JamesLi2021/JamesLi2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
